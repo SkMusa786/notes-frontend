@@ -60,7 +60,7 @@ Frontend deployed on Vercel.
 ## Live Demo
 
 Frontend:
-https://your-vercel-url.vercel.app
+https://notes-frontend-beryl.vercel.app/
 
 Backend:
 https://notes-backend-zelh.onrender.com
